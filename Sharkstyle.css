@@ -6,4 +6,12 @@
         }
 @font-face {
    font-family:'comicneue' 
-   src: url() format('ttf')
+   src: url(ComicNeue-Bold.ttf) format('ttf')
+   src: url(ComicNeue-BoldItalic.ttf) format('ttf')
+   src: url(ComicNeue-Italic.ttf) format('ttf')
+   src: url(ComicNeue-Light.ttf) format('ttf')
+   src: url(ComicNeue-LightItalic.ttf) format('ttf')
+   src: url(ComicNeue-Regular.ttf) format('ttf')
+}
+
+
