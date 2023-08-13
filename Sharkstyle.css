@@ -1,5 +1,7 @@
 .poopoo {font-size:72px;
-   Font-family:"Comic sans";
+   Font-family:'Comicsans';
    }
-.pee {font-size:36px;
-      Font-family:"sans-serif"
+.peepee {font-size:36px;
+      Font-family:'comicsans'
+@font-face {
+   font-family:'comicneue' 
