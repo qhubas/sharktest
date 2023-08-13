@@ -1,17 +1,19 @@
-.poopoo {font-size:72px;
-   Font-family:'Comicneue';
-   }
-.peepee {font-size:36px;
-      Font-family:'comicneue';
-        }
-@font-face {
-   font-family:'comicneue' 
-   src: url(ComicNeue-Bold.ttf) format('ttf');
-   src: url(ComicNeue-BoldItalic.ttf) format('ttf');
-   src: url(ComicNeue-Italic.ttf) format('ttf');
-   src: url(ComicNeue-Light.ttf) format('ttf');
-   src: url(ComicNeue-LightItalic.ttf) format('ttf');
-   src: url(ComicNeue-Regular.ttf) format('ttf');
+.poopoo {
+   font-size: 72px;
+   font-family: 'Comicneue';
 }
 
+.peepee {
+   font-size: 36px;
+   font-family: 'comicneue';
+}
 
+@font-face {
+   font-family: 'comicneue';
+   src: url('ComicNeue-Bold.ttf') format('truetype'),
+        url('ComicNeue-BoldItalic.ttf') format('truetype'),
+        url('ComicNeue-Italic.ttf') format('truetype'),
+        url('ComicNeue-Light.ttf') format('truetype'),
+        url('ComicNeue-LightItalic.ttf') format('truetype'),
+        url('ComicNeue-Regular.ttf') format('truetype');
+}
