@@ -2,6 +2,8 @@
    Font-family:'Comicsans';
    }
 .peepee {font-size:36px;
-      Font-family:'comicsans'
+      Font-family:'comicsans';
+        }
 @font-face {
    font-family:'comicneue' 
+   src: url() format('ttf')
