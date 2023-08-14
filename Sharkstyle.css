@@ -1,12 +1,12 @@
 body{background-color: hsl( 222, 33%, 66%);
      background-size: cover;
 
-.poopoo {
+.poopoo {text-align: center;
    font-size: 72px;
    font-family: 'Comicneue';
 }
 
-.peepee {
+.peepee {text-align: center;
    font-size: 36px;
    font-family: 'comicneue';
 }
