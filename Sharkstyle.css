@@ -1,4 +1,5 @@
-body{background-color:hsl(222,33%,66%);
+body{background-color: hsl( 222, 33%, 66%);
+     background-size: cover;
 
 .poopoo {
    font-size: 72px;
