@@ -13,6 +13,12 @@ body{background-color: hsl( 222, 33%, 66%);
    font-family: 'comicneue';
 }
 
+.sharkgif {
+     Margin-left:auto;
+     Margin-right:auto;
+     display: block;
+}
+
 @font-face {
    font-family: 'comicneue';
    src: url('ComicNeue-Bold.ttf') format('truetype'),
