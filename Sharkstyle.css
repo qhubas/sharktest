@@ -1,7 +1,9 @@
 body{background-color: hsl( 222, 33%, 66%);
      background-size: cover;}
 
-.poopoo {text-align: center;
+.poopoo {
+     margin:0 0 0 0;
+     text-align: center;
          color: hsl(100, 100%, 100%);
    font-size: 72px;
    font-family: 'Comicneue';
