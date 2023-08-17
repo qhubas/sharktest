@@ -31,3 +31,6 @@ body{background-color: hsl( 222, 33%, 66%);
         url('ComicNeue-LightItalic.ttf') format('truetype'),
         url('ComicNeue-Regular.ttf') format('truetype');
 }
+
+.password { margin-left:auto;
+           margin-right:auto;
