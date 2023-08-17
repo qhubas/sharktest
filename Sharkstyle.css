@@ -6,7 +6,9 @@ body{background-color: hsl( 222, 33%, 66%);
    font-family: 'Comicneue';
 }
 
-.peepee {text-align: center;
+.peepee {max-width: 500px;
+         border:3px hsla(200, 40%, 80%, 60%);
+     text-align: center;
    font-size: 36px;
    font-family: 'comicneue';
 }
