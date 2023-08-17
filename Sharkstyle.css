@@ -8,6 +8,7 @@ body{background-color: hsl( 222, 33%, 66%);
 
 .peepee {max-width: 500px;
          margin: auto;
+         Background-color: hsl(100, 30%, 80%);
          border:3px solid hsla(200, 40, 80, 60%);
      text-align: center;
    font-size: 36px;
