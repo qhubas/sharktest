@@ -8,7 +8,7 @@ body{background-color: hsl( 222, 33%, 66%);
 
 .peepee {max-width: 500px;
          margin: auto;
-         border:3px hsla(200, 40%, 80%, 60%);
+         border:3px solid hsla(200, 40, 80, 60%);
      text-align: center;
    font-size: 36px;
    font-family: 'comicneue';
